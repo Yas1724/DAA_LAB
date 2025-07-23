@@ -1,0 +1,15 @@
+1. Function to rotate_Right(p1,p2) right an array for first p2 element by 1 position using Exchange(p,q) function that swaps/exchange the number P and q.
+   parameters P1 be the starting address of the array and p2 be the number of elements to be rotated
+
+	Ex: input: A[9]={11,22,33,44,55,66,77,88,99}
+	 	    Rotate_right(A,5)
+	    output: A[9]={55,11,22,33,44,66,77,88,99}
+
+2. Convert the given deimal number into Binary number using Recurssion, take the dynamic input of decimal integer.
+	Ex: input: decimal no. = 5
+	    output: BinaryConv = 0101
+
+
+3. Find the Greatest common division(GCD) between two numbers. Take the 2 integers input dynamically
+    Ex: input- 18,12
+        output- gcd = 6
